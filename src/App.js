@@ -226,7 +226,7 @@ function App() {
           ""
         )}
       </Grid>
-      <GithubCorner href="#" />
+      <GithubCorner href="https://github.com/hebree123/weather-app/" />
     </Container>
   );
 }
