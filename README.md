@@ -1,4 +1,4 @@
-# Weather.io - A Simple React.js Weather Component
+# Weather.io - A Simple React.js Weather App
 
 ## Table of contents
 
